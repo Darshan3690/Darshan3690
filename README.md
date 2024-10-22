@@ -15,7 +15,7 @@ I'm a passionate Web Developer with a keen interest in building innovative and s
 Skills:
 
 - Programming languages: JavaScript, HTML, CSS
-- Libraries: jQuery, Bootstrap
+- Libraries:  Bootstrap
 - Ui/Ux designe
 
 Thanks for Visiting!
