@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Darshan3690
-- 👀 About Me:
-I'm a passionate Web Developer with a keen interest in building innovative and scalable web applications. With a strong foundation in HTML, CSS, JavaScript,  I'm always eager to learn and explore new technologies.
+function aboutMe() {
+    let name = 'Darshan Rajput';
+    let education = 'B.Tech @ Marwadi University';
+    let acknowledgement = 'Another engineer';
+    // Wanna know more ? Here you go ...
+    aboutMe();
+}
 
 - 🌱Interests:
 
@@ -17,7 +22,15 @@ Skills:
 - Programming languages: JavaScript, HTML, CSS
 - Libraries:  Bootstrap
 - Ui/Ux designe
-
+- 
+<div id="badges" align="center">
+  <a href="(https://www.linkedin.com/in/darshan-rajput-4b0b23288/)">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="(https://www.instagram.com/darshan._.3690/)">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
