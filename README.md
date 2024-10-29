@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Darshan3690
+### :man_technologist: About Me : 
+```javascript
 function aboutMe() {
-    let name = 'Darshan Rajput';
-    let education = 'B.Tech @ Marwadi University';
+    let name = 'Darshan Rajput ';
+    let education = 'B.Tech @ Marwadi University ';
     let acknowledgement = 'Another engineer';
     // Wanna know more ? Here you go ...
     aboutMe();
 }
 
+```
 - 🌱Interests:
 
 - Web Development (Front-end )
