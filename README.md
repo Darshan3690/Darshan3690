@@ -26,10 +26,10 @@ Skills:
 - Ui/Ux designe
 - 
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/darshan-rajput-4b0b23288/)">
+  <a href="https://www.linkedin.com/in/darshan-rajput-4b0b23288/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="(https://www.instagram.com/darshan._.3690/)">
+  <a href="https://www.instagram.com/darshan._.3690/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
