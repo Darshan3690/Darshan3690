@@ -46,7 +46,9 @@ Skills:
 </div>
 
    HACTOBERFEST'24:
-   ![Uploading darshan3690 hacktoberfest.png…]()
+    <img src="C:\Users\darsh\OneDrive\Desktop\labmanualhtml\HACKTOBARFEST2024" width="100px" height="100px" />
+   
+   
 
 Thanks for Visiting!
 
