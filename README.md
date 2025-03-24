@@ -12,7 +12,6 @@ function aboutMe() {
 - 🌱Interests:
 
 - Web Development (Front-end )
-- UI/UX designe(Figma)
 - Responsive Web Design
 - Mobile-First Approach
 - Web Performance Optimization
@@ -22,8 +21,7 @@ function aboutMe() {
 Skills:
 
 - Programming languages: JavaScript, HTML, CSS
-- Libraries:  Bootstrap
-- Ui/Ux designe
+
 - 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/darshan-rajput-4b0b23288/">
