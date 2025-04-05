@@ -43,8 +43,12 @@ Skills:
 
 </div>
 
-   HACTOBERFEST'24:
+
+<div>
+    HACTOBERFEST'24:
     [![An image of @darshan3690's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshan3690)](https://holopin.io/@darshan3690)
+</div>
+   
    
 
 Thanks for Visiting!
