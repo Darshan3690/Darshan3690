@@ -44,8 +44,7 @@ Skills:
 </div>
 
    HACTOBERFEST'24:
-    <img src="C:\Users\darsh\OneDrive\Desktop\labmanualhtml\HACKTOBARFEST2024" width="100px" height="100px" />
-   
+    [![An image of @darshan3690's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshan3690)](https://holopin.io/@darshan3690)
    
 
 Thanks for Visiting!
