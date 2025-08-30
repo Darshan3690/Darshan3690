@@ -1,3 +1,51 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0e6efd&center=true&vCenter=true&width=480&lines=Hi+there%2C+I%27m+Kishan+Vyas;Full-Stack+Developer+%7C+Cloud+Engineer;LeetCode+475%2B+Problems+Solved;Always+learning%2C+always+building" alt="Typing SVG" />
+
+  <div>
+    <a href="https://bento.me/darshan3690" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-DarshanRajput-0e6efd?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/darshan-rajput-4b0b23288/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0e6efd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:darshan.rajput369@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0e6efd?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://leetcode.com/Doremon3690/">
+      <img src="https://img.shields.io/badge/LeetCode-475+-0e6efd?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+  </div>
+</div>
+
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Darshan3690&show_icons=true&hide_border=true&title_color=0e6efd&text_color=ffffff&icon_color=0e6efd&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Darshan3690&show_icons=true&hide_border=true&title_color=0e6efd&text_color=000000&icon_color=0e6efd&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Darshan3690&show_icons=true&hide_border=true&title_color=0e6efd&text_color=ffffff&icon_color=0e6efd&bg_color=00000000" />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=Darshan3690&theme=transparent&hide_border=true&stroke=0e6efd&ring=0e6efd&fire=0e6efd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0e6efd&sideLabels=0e6efd&dates=ffffff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=Darshan3690&theme=transparent&hide_border=true&stroke=0e6efd&ring=0e6efd&fire=0e6efd&currStreakNum=000000&sideNums=000000&currStreakLabel=0e6efd&sideLabels=0e6efd&dates=000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Darshan3690&theme=transparent&hide_border=true&stroke=0e6efd&ring=0e6efd&fire=0e6efd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0e6efd&sideLabels=0e6efd&dates=ffffff" />
+  </picture>
+</div>
+
+
+
 ### :man_technologist: About Me : 
 ```javascript
 function aboutMe() {
