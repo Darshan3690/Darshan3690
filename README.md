@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0e6efd&center=true&vCenter=true&width=480&lines=Hi+there%2C+I%27m+Kishan+Vyas;Full-Stack+Developer+%7C+Cloud+Engineer;LeetCode+475%2B+Problems+Solved;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0e6efd&center=true&vCenter=true&width=480&lines=Hi+there%2C+I%27m+Darshan Rajput;Full-Stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
 
   <div>
     <a href="https://bento.me/darshan3690" target="_blank">
@@ -57,28 +57,70 @@ function aboutMe() {
 }
 
 ```
-- 🌱Interests:
 
-- Web Development (Front-end )
-- Responsive Web Design
-- Mobile-First Approach
-- Web Performance Optimization
-- Accessibility
+## 🛠️ Technical Expertise
 
-  
-Skills:
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/React-0e6efd?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-0e6efd?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0e6efd?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0e6efd?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0e6efd?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0e6efd?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-0e6efd?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-0e6efd?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-0e6efd?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+</details>
 
-- Programming languages: JavaScript, HTML, CSS
+<details open>
+<summary><b>Backend & CMS</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0e6efd?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-0e6efd?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-0e6efd?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0e6efd?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+</details>
 
-- 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/darshan-rajput-4b0b23288/">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/darshan._.3690/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+<details>
+<summary><b>Database </b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0e6efd?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-0e6efd?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-0e6efd?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>DevOps & Cloud</b></summary>
+<br>
+<p>
+
+  <img src="https://img.shields.io/badge/AWS-0e6efd?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0e6efd?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-0e6efd?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</p>
+</details>
+
+## 📊 LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/Doremon3690/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Doremon3690?theme=dark&font=Nunito&ext=heatmap" />
+      <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/Doremon3690?theme=light&font=Nunito&ext=heatmap" />
+      <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/Doremon3690?theme=dark&font=Nunito&ext=heatmap" width="495" />
+    </picture>
   </a>
 </div>
+
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -97,14 +139,16 @@ HACTOBERFEST'24:
     [![An image of @darshan3690's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshan3690)](https://holopin.io/@darshan3690)
 
    
-   
-
-Thanks for Visiting!
-
-Hope you find something interesting in my repositories. Happy coding!
+  
 
 
-
+<div align="center">
+  
+  <p>Looking for internships, collaborations, and startup ventures</p>
+  
+  <img src="https://komarev.com/ghpvc/?username=Darshan3690&style=for-the-badge&color=0e6efd" alt="Profile Views" />
+  <p align="center">Last updated: 30-08-2025</p>
+</div>
 <!---
 Darshan3690/Darshan3690 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
