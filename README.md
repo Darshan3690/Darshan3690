@@ -17,6 +17,33 @@
   </div>
 </div>
 
+
+<!-- Stats -->
+<div align="center">
+  
+## 📊 GitHub Overview
+<!--
+![](https://github-readme-stats.vercel.app/api?username=Darshan3690&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Darshan3690&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan3690&theme=aura&hide_border=false&size="50%"&include_all_commits=false&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darshan3690&theme=dark&hide_border=false")
+-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darshan3690&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshan3690&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darshan3690&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darshan3690&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Darshan3690&theme=aura&utcOffset=8)
+</div> <br/>
+
+<div align="center">
+  
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=Darshan3690&theme=darkhub)
+</p>
+
+</div>
+<br>
+
 ---
 
 
@@ -123,5 +150,5 @@ function aboutMe() {
 <div align="center">
   <p>💼 Open for opportunities: Internships | Collaborations | Startups</p>
   <img src="https://komarev.com/ghpvc/?username=Darshan3690&style=for-the-badge&color=0e6efd" alt="Profile Views" />
-  <p><i>Last updated: 30-08-2025</i></p>
+  <p><i>Last updated: 19-09-2025</i></p>
 </div>
