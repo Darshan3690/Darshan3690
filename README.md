@@ -98,9 +98,8 @@ const darshan = {
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="70px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="70px" />
 
-### Hacktoberfest & Holopin Badges
-[![Holopin Board](https://holopin.me/darshan3690)](https://holopin.io/@darshan3690)
-
+### Hacktoberfest '24 &'25 & Holopin Badges
+[![An image of @darshan3690's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshan3690)](https://holopin.io/@darshan3690)
 </div>
 
 </details>
