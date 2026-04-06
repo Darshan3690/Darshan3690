@@ -76,11 +76,20 @@ const darshan = {
 <details>
 <summary><h2>📊 GitHub Stats</h2></summary>
 
+
+
+<br/>
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Darshan3690&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan3690&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darshan3690&theme=tokyonight" alt="Contribution Graph" width="100%">
 </div>
+
+<br/>
+<!-- Streak -->
+<h2 align="center">My Github Streaks</h2>
+<p align="center">
+  <img alt="GitHub Streak" height="200px" width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=Darshan3690&theme=radical" />
+</p>
 
 </details>
 
