@@ -6,7 +6,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0e6efd?style=for-the-badge)](https://bento.me/darshan3690)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0e6efd?style=for-the-badge)](https://linktr.ee/darshan3690)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e6efd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-rajput-4b0b23288/)
 [![Email](https://img.shields.io/badge/Email-Contact-0e6efd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshan.rajput369@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-0e6efd?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Doremon3690/)
@@ -158,6 +158,28 @@ Real-time carbon footprint tracker with Firebase + interactive emission dashboar
 
 </details>
 
+<details open>
+<summary><b>🏆 Hackathon Contributions — Back to the Metadata Hackathon 2026</b></summary>
+
+<br>
+
+> 🎖️ **Participated in the [Back to the Metadata Hackathon 2026](https://www.wemakedevs.org)** (Apr 17–26, 2026) — PR Track — organized by **WeMakeDevs**, sponsored by **OpenMetadata**.
+> Contributed to two production-grade open-source repositories: **OpenMetadata** and **lingo.dev**
+
+<br>
+
+| # | Repository | Issue | Pull Request | Contribution Summary |
+|---|-----------|-------|-------------|----------------------|
+| 1 | [**OpenMetadata**](https://github.com/open-metadata/OpenMetadata) | [#27004](https://github.com/open-metadata/OpenMetadata/issues/27004) | [#27143](https://github.com/open-metadata/OpenMetadata/pull/27143) | Bug fix / feature contribution to the OpenMetadata platform — a metadata management & data discovery tool used in production by engineering teams globally |
+| 2 | [**OpenMetadata**](https://github.com/open-metadata/OpenMetadata) | [#25764](https://github.com/open-metadata/OpenMetadata/issues/25764) | [#27409](https://github.com/open-metadata/OpenMetadata/pull/27409) | Second contribution to OpenMetadata — resolved a tracked issue and shipped a reviewed, merged PR to the main codebase |
+| 3 | [**lingo.dev**](https://github.com/lingodotdev/lingo.dev) | [#1336](https://github.com/lingodotdev/lingo.dev/issues/1336) | [#1512](https://github.com/lingodotdev/lingo.dev/pull/1512) | Contributed to lingo.dev — an AI-powered i18n localization platform — fixing a reported issue and getting the PR reviewed and merged |
+
+<br>
+
+> These are **real production contributions** to widely-used developer tools, not toy projects — reviewed by core maintainers and merged into main.
+
+</details>
+
 <details>
 <summary><b>🏅 Badges & Achievements</b></summary>
 
@@ -225,7 +247,7 @@ Real-time carbon footprint tracker with Firebase + interactive emission dashboar
 🚀  Shipped 6+ AI-first products end-to-end — from idea to production
 🏅  Competed in Code Carnival S02 — National 36-hr Hackathon
 📦  Contributed to 8+ production repos across JS, React, Node.js ecosystems
-
+🎖️  Back to the Metadata Hackathon 2026 — PRs merged into OpenMetadata & lingo.dev
 ---
 
 ## 🤝 Let's Connect
@@ -238,7 +260,7 @@ Real-time carbon footprint tracker with Firebase + interactive emission dashboar
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bento.me-0e6efd?style=for-the-badge)](https://linktr.ee/darshan3690)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-linktree-0e6efd?style=for-the-badge)](https://linktr.ee/darshan3690)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan_Rajput-0e6efd?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshan-rajput-4b0b23288/)
 [![Email](https://img.shields.io/badge/Email-darshan.rajput369%40gmail.com-0e6efd?style=for-the-badge&logo=gmail)](mailto:darshan.rajput369@gmail.com)
 
