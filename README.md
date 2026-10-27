@@ -60,18 +60,7 @@ const darshan = {
 
 ---
 
-# 🧠 AI Engineering & System Architecture
 
-> Moving beyond simple prompt wrappers—designing low-latency, fault-tolerant AI systems that integrate cleanly with production data and enterprise workflows.
-
-```mermaid
-flowchart LR
-    A[🎙️ Voice / Text Input] -->|WebSockets / Vapi| B(⚡ Real-Time STT & Intent Router)
-    B -->|Multi-LLM Orchestration| C{🧠 AI Agent Core}
-    C <-->|DLT / Vector & Graph Memory| D[(📚 Cognee / NeonDB)]
-    C -->|Deterministic Tool Calling| E[⚙️ n8n / Calendar / APIs]
-    C -->|Streaming TTS| F[🔊 Sub-2s Voice Response]
-```
 
 | AI Engineering Pillar | Production Implementation & Focus |
 | :--- | :--- |
