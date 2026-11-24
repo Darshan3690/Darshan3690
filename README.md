@@ -1,213 +1,161 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=0e6efd&center=true&vCenter=true&width=750&height=60&lines=Hey+there!+I'm+Darshan+Rajput+👋;AI+Engineer+%7C+Full+Stack+Developer;Architecting+LLM+Systems+%26+Voice+AI+Agents;Open+Source+Maintainer+%7C+150%2B+PRs+Reviewed" alt="Typing Animation" />
+<a href="https://github.com/Darshan3690">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24,28&height=240&section=header&text=Darshan%20Rajput&fontSize=62&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Open%20Source%20Maintainer&descAlignY=58&descFontSize=21&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+</a>
 
-### 🎓 B.Tech @ Marwadi University  |  🤖 AI Systems Engineer  |  🛠️ Open Source Maintainer
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=800&height=50&lines=🛡️+Creator+of+VibeCI+%E2%80%94+CI+Seatbelt+for+Vibe+Coding;⚡+Architecting+Low-Latency+Voice+AI+%26+Autonomous+Agents;🧠+Graph+RAG+Architect+%E2%80%94+SetuBrain+%26+Cognee;🚀+Lead+Maintainer+%40+The+Dev+Pocket+(100%2B+Contributors)" alt="Typing Animation" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0e6efd?style=for-the-badge)](https://linktr.ee/darshan3690)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e6efd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-rajput-4b0b23288/)
-[![Email](https://img.shields.io/badge/Email-Contact-0e6efd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshan.rajput369@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-0e6efd?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Doremon3690/)
-[![Ask Darshan AI](https://img.shields.io/badge/✨_Ask_Darshan_AI-Interactive_Portfolio_Agent-7c3aed?style=for-the-badge&logo=openai&logoColor=white)](https://linktr.ee/darshan3690)
+<p align="center">
+  <b>🎓 B.Tech Computer Engineering @ Marwadi University</b> • <b>🤖 AI Systems Engineer</b> • <b>🛠️ Open Source Maintainer</b>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://linktr.ee/darshan3690"><img src="https://img.shields.io/badge/🌐_Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/darshan-rajput-4b0b23288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:darshan.rajput369@gmail.com"><img src="https://img.shields.io/badge/Email-Ping_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/Doremon3690/"><img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://github.com/Darshan3690?tab=followers"><img src="https://img.shields.io/github/followers/Darshan3690?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" alt="GitHub Followers"/></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Darshan3690&style=for-the-badge&color=0e6efd)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darshan3690&style=for-the-badge&color=00F0FF" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
 ```typescript
 const darshan = {
   name: "Darshan Rajput",
   role: "AI Engineer & Open Source Maintainer",
-  education: "B.Tech Computer Engineering @ Marwadi University",
   location: "Gujarat, India",
 
-  ai_architecture: [
-    "Real-Time Voice AI Agents (Sub-2s Latency)",
-    "Multi-Agent RAG & Graph Memory Systems (Cognee / Vector DBs)",
-    "Multi-LLM Routing & Evaluation Pipelines",
-    "Autonomous Workflow Automation (n8n / Tool Calling)"
-  ],
-
-  maintaining: "The Dev Pocket — 100+ contributors, 200+ PRs reviewed",
+  flagship_work: {
+    vibeci: "The CI seatbelt for vibe coding & AI coding agents (36★)",
+    the_dev_pocket: "Lead Maintainer — 100+ contributors, 200+ PRs",
+    setubrain: "AI company brain with FalkorDB GraphRAG",
+    voice_ai: "Real-time voice doctor & autonomous receptionist"
+  },
 
   stack: [
-    "Next.js", "TypeScript", "Python",
-    "OpenAI / Claude / Gemini", "Vapi AI", "AssemblyAI", "n8n"
+    "TypeScript", "Python", "Go", "Next.js", "Docker",
+    "OpenAI", "Claude", "Gemini", "Vapi AI", "AssemblyAI", "n8n", "FalkorDB"
   ],
 
-  open_to: [
-    "AI/ML Engineering Internships",
+  open_for: [
+    "AI/ML Engineering Roles & Internships",
     "Forward Deployed Engineer (AI)",
-    "Full Stack AI Roles",
-    "High-Growth AI Startups"
+    "High-Growth AI Agent Startups"
   ]
 };
 ```
 
-- 🤖 Architecting **production LLM systems, real-time voice AI agents & autonomous pipelines**
-- 🧠 Building **AI memory connectors & knowledge graphs** (Top PR Winner @ **Cognee AI Hackathon**)
-- 🛠️ **Project Admin & Lead Maintainer** at [The Dev Pocket](https://github.com/Darshan3690/The-Dev-Pocket) — 100+ contributors, 150+ PRs reviewed
-- 🌍 Active Open Source Leader in **GSSoC 2026**, **ECWoC 2026**, and **Hacktoberfest 2024 & 2025**
-- 🎯 Competed in **Code Carnival S02** — National 36-hour Hackathon at Atmiya University
-
 ---
 
+# 🏆 Open Source Contributions & Production PRs
 
-
----
-
-# 🏆 Open Source Contributions & Hackathon Wins
-
-> Building in public, shipping production fixes to high-star repositories, and collaborating with core maintainers across the AI and data ecosystem.
-
-## 🥇 Hackathon Wins (2026)
-
-**WeMakeDevs × OpenMetadata (`Back to the Metadata`) & Cognee (`The Hangover Part AI`)**
-
-### 📊 Contribution Summary
-
-<div align="center">
-
-| 🔥 Contributions | 📦 Repositories | 🐛 Issues Resolved | 🔀 Merged PRs | 🏅 Hackathon Prize |
-| :---: | :---: | :---: | :---: | :---: |
-| **Production Engineering** | **3** | **4** | **4** | **$100 USD (Top PR Winner)** |
-
-</div>
-
-### 🏅 Hackathon Achievement
-
-<div align="center">
-
-### 🎖️ Top PR Winner — The Hangover Part AI (`$100 USD`)
-
-**Where's My Context? · Cognee × WeMakeDevs**
+<details open>
+<summary><b>🔥 Click to Collapse / Expand Open Source Contributions Table</b></summary>
 
 <br>
 
-<a href="https://archive.wemakedevs.org/hackathons/cognee/projects/prs">
-  <img src="https://raw.githubusercontent.com/Darshan3690/Darshan3690/main/assets/hangover-top-pr-winner.png" alt="The Hangover Part AI — Top PR Winners" width="700"/>
-</a>
-
-<br>
-
-<sub>🏆 Top PR Winner · Cognee AI Memory Hackathon · WeMakeDevs</sub>
-
-</div>
-
----
-
-# 🚀 Featured Project — The Dev Pocket
-
-> 🚀 **Creator & Lead Maintainer** of [The Dev Pocket](https://github.com/Darshan3690/The-Dev-Pocket) — an open-source developer platform containing curated resources, interactive tools, learning material, and developer roadmaps.
-
 <div align="center">
 
-| 🔁 PRs Reviewed | 👥 Contributors | 🌍 Open Source Programs | ⭐ Active Since |
-| :---: | :---: | :---: | :---: |
-| **150+** | **100+** | **GSSoC · Hacktoberfest · ECWoC** | **Oct 2025** |
-
-<br>
-
-[![Star The Dev Pocket](https://img.shields.io/github/stars/Darshan3690/The-Dev-Pocket?style=for-the-badge&logo=github&label=⭐%20Star)](https://github.com/Darshan3690/The-Dev-Pocket)
-[![Fork The Dev Pocket](https://img.shields.io/github/forks/Darshan3690/The-Dev-Pocket?style=for-the-badge&logo=github&label=🍴%20Fork)](https://github.com/Darshan3690/The-Dev-Pocket)
+| Organization / Repository | Stars | Merged / Active PRs | Production Engineering Impact | Status |
+| :--- | :---: | :---: | :--- | :---: |
+| **[NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect)** | ⭐ Active | [**PR Activity**](https://github.com/NVIDIA/TensorRT-Model-Connect/pulls/Darshan3690) | Contributed to model connect pipelines and TensorRT deployment toolchain. | `CONTRIBUTED` ⚡ |
+| **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** | ⭐ 6.8k+ | [**PR #27143**](https://github.com/open-metadata/OpenMetadata/pull/27143) | **Fix omjob pod/label naming length constraints**: Enforced RFC-compliant SHA-256 byte masking (`& 0xff`) to prevent K8s pod creation failures >63 chars. | `MERGED` ✅ |
+| **[topoteretes/cognee](https://github.com/topoteretes/cognee)** | ⭐ 2.5k+ | [**Community PRs**](https://github.com/topoteretes/cognee-community/pulls/Darshan3690) | **🥇 $100 Top PR Winner**: Confluence DLT connector for Cognee Graph Memory with incremental synchronization & forget-on-delete. | `MERGED` ✅ |
+| **[meshery-extensions/meshery-nsm](https://github.com/meshery-extensions/meshery-nsm)** | ⭐ Active | [**PR #214**](https://github.com/meshery-extensions/meshery-nsm/pull/214) | **[NSM] Upgrade Go to 1.27.1**: Upgraded Go toolchain and base build images across `go.mod`, Dockerfile & CI workflows. | `MERGED` ✅ |
+| **[meshery-extensions/meshery-app-mesh](https://github.com/meshery-extensions/meshery-app-mesh)** | ⭐ Active | [**PRs Merged**](https://github.com/meshery-extensions/meshery-app-mesh/pulls?q=is%3Apr+state%3Aclosed+author%3ADarshan3690) | Cloud-native adapter maintenance, dependency updates, and GitHub Actions CI fixups. | `MERGED` ✅ |
+| **[layer5io/layer5-repo-template](https://github.com/layer5io/layer5-repo-template)** | ⭐ Active | [**Top Contributor**](https://github.com/layer5io/layer5-repo-template/graphs/contributors?from=2026-08-21T18%3A30%3A00.000Z) | **#1 Top Contributor**: Built and maintained foundational repository templates and community scaffolding. | `RANK #1` 🎖️ |
+| **[sandbox-quantum/switch](https://github.com/sandbox-quantum/switch)** | ⭐ Active | [**PR Activity**](https://github.com/sandbox-quantum/switch/pulls/Darshan3690) | Open-source contributions to quantum SDK tools and runtime switches. | `MERGED` ✅ |
+| **[lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)** | ⭐ 1.2k+ | [**PR #85**](https://github.com/lingodotdev/lingo.dev) | Shipped complete CLI workflow & Vue 3 `vue-i18n` localization guide for AI translation. | `MERGED` ✅ |
+| **[Darshan3690/The-Dev-Pocket](https://github.com/Darshan3690/The-Dev-Pocket)** | ⭐ 36+ | [**Project Lead**](https://github.com/Darshan3690/The-Dev-Pocket) | Lead Maintainer: Built VibeCI, triaged 200+ PRs, guided 100+ contributors across GSSoC, ECWoC & Hacktoberfest. | `ACTIVE` 🚀 |
 
 </div>
 
-### 🛠️ Open Source Leadership & Maintainer Roles
-
-| Role | Program | Duration | Engineering & Community Impact |
-| :--- | :--- | :--- | :--- |
-| **Project Admin** | ECWoC 2026 — Elite Coders | Jan 2026 – Present | Led **100+ contributors** · **30% increase** in active PR velocity |
-| **Lead Maintainer** | Hacktoberfest 2025 — DevPocket | Oct 2025 – Jan 2026 | Reviewed & merged **150+ PRs** · Automated **CI/CD & PR triage** |
-| **Open Source Contributor** | GSSoC 2024 + Hacktoberfest 2024 | Oct – Nov 2024 | Shipped features & fixes across **8+ production repositories** |
+</details>
 
 ---
 
-# 🤖 Featured AI & Automation Products
+# 🚀 Featured Personal Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎙️ MediAI — Voice AI Doctor
+### 🛡️ [VibeCI (The Dev Pocket)](https://github.com/Darshan3690/The-Dev-Pocket)
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐_Stars-36_Stars-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Lead_Project-00F0FF?style=for-the-badge" />
+</p>
 
-Real-time conversational healthcare AI platform powered by low-latency speech recognition and clinical LLM prompting.
+**The CI seatbelt for vibe coding and AI coding agents.**
+- Catch Windows-to-Linux casing traps, runtime drift, and lazy AI test-cheats locally in seconds—before your pull request breaks GitHub Actions.
+- Prevents agents from deleting assertions or inserting `@ts-ignore` to pass checks.
+- Flagship project inside **[The-Dev-Pocket](https://github.com/Darshan3690/The-Dev-Pocket)** (100+ contributors, 200+ PRs reviewed).
 
-**📈 40% accessibility improvement · 1,000+ concurrent users**
-
-`Next.js` `TypeScript` `AssemblyAI` `OpenAI` `NeonDB` `Clerk`
-
-</td>
-
-<td width="50%">
-
-### 🤝 AI Voice Receptionist Agent
-
-Autonomous voice receptionist handling inbound customer calls, intent detection, live calendar lookup, and booking workflows.
-
-**⚡ Zero manual scheduling · Sub-2s voice latency**
-
-`Vapi AI` `n8n` `OpenAI Realtime` `Google Calendar API`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💬 MLCS — Multi-LLM Chat Arena PWA
-
-Unified multi-model AI playground enabling real-time side-by-side response benchmarking across frontier LLMs.
-
-**🚀 35% higher user session engagement**
-
-`Next.js` `TypeScript` `OpenAI` `Gemini` `Claude`
+`TypeScript` `Node.js` `Docker` `Git Hooks` `AST Guardrails`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📧 Autonomous Email Triage Agent
+### 🧠 [SetuBrain](https://github.com/Darshan3690/SetuBrain)
+<p align="center">
+  <a href="https://setu-brain.vercel.app"><img src="https://img.shields.io/badge/🌐_Demo-setu--brain-00F0FF?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Hackathon-FalkorDB_GraphHacks-8A2BE2?style=for-the-badge" />
+</p>
 
-LLM-powered email pipeline that classifies inbound threads, extracts urgency/intent, and drafts context-aware replies.
+**AI company brain that knows when *not* to answer.**
+- Eliminates documentation hallucinations by bridging company docs with high-precision graph knowledge.
+- GraphRAG engine powered by **FalkorDB** multi-tenant graph database.
+- Represents knowledge as connected entity graphs instead of flat vector chunks.
 
-**⏱️ 60% reduction in manual inbox processing**
-
-`OpenAI API` `n8n` `Webhook Automation` `Prompt Chaining`
+`Next.js` `TypeScript` `FalkorDB` `GraphRAG` `OpenAI`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✨ PromptGenius — CRISPE Prompt Engine
+### 🎙️ [Medical-Voice-Ai-Agent](https://github.com/Darshan3690/Medical-Voice-Ai-Agent)
+<p align="center">
+  <img src="https://img.shields.io/badge/Latency-Sub--2s-00F0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Concurrent-1000%2B_Users-purple?style=for-the-badge" />
+</p>
 
-Chrome extension that automatically restructures raw user queries into engineered **CRISPE-framework** system prompts.
+**Full-stack real-time voice-powered virtual doctor SaaS application.**
+- Low-latency bi-directional speech recognition and clinical diagnosis reasoning.
+- Triage classification, transcript generation, and patient records persistence.
+- Scalable cloud infrastructure built for responsive voice interactions.
 
-**🔒 Zero-config · Client-side execution**
-
-`JavaScript` `Chrome Extension API` `Prompt Engineering`
+`Next.js` `React` `TypeScript` `AssemblyAI` `NeonDB` `Clerk`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 CoolTheClimate — Carbon Tracker
+### 🤝 [AI-Receptionist](https://github.com/Darshan3690/AI-Receptionist)
+<p align="center">
+  <img src="https://img.shields.io/badge/Workflow-n8n_Automated-EA4B71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Integration-Google_Calendar-blue?style=for-the-badge" />
+</p>
 
-Cross-platform mobile application featuring interactive emission analytics and personalized sustainability recommendations.
+**Autonomous voice receptionist agent with n8n workflow automation.**
+- Handles inbound phone calls, user intent detection, and voice conversational loops.
+- Live Google Calendar API integration for conflict-free appointment booking.
+- Fully automated fallback webhooks, SMS alerts, and lead capture via n8n.
 
-**🏅 Code Carnival S02 National Hackathon Entry**
-
-`React Native` `Expo` `Firebase`
+`Vapi AI` `n8n` `OpenAI Realtime` `Google Calendar API` `Webhooks`
 
 </td>
 </tr>
@@ -215,115 +163,80 @@ Cross-platform mobile application featuring interactive emission analytics and p
 
 ---
 
-# 💻 Tech Stack
+# 🧩 Chrome Extensions
 
-### 🧠 AI, LLMs & Agentic Workflows
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Vapi AI](https://img.shields.io/badge/Vapi_Voice_AI-0e6efd?style=for-the-badge)
-![AssemblyAI](https://img.shields.io/badge/AssemblyAI-3B82F6?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### ✨ [PromptGenius](https://github.com/Darshan3690/PromptGenius)
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-CRISPE-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Execution-100%25_Client--Side-brightgreen?style=for-the-badge" />
+</p>
 
-### 🎨 Frontend Engineering
+**CRISPE-framework prompt engineering assistant.**
+- Injects directly into ChatGPT, Claude, and Gemini web interfaces.
+- Restructures raw, vague queries into clear, context-rich system prompts with zero config.
+- No personal API keys required; 100% on-device private processing.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+`JavaScript` `Chrome Extensions Manifest V3` `Prompt Engineering`
 
-### ⚙️ Backend, Data & Cloud Infrastructure
+</td>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<td width="50%" valign="top">
 
----
+### 📸 [UI_snap](https://github.com/Darshan3690/UI_snap)
+<p align="center">
+  <img src="https://img.shields.io/badge/Category-Developer_Tool-00F0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Precision-Pixel--Perfect-orange?style=for-the-badge" />
+</p>
 
-# 🏅 Community Badges & Recognition
+**Chrome extension for instant UI inspection, capture & frontend debugging.**
+- Instant snapshot and component-level inspection for developers and designers.
+- Captures layout states, styling information, and clean visual assets in one click.
+- Built for fast frontend reviews, QA audits, and bug reproduction.
 
-<details>
-<summary><b>🎖️ View Open Source Badges (Layer5, GSSoC, Hacktoberfest & Holopin)</b></summary>
+`JavaScript` `Chrome Extension API` `DOM Scripting` `CSS3`
 
-<br>
-
-<div align="center">
-
-### Layer5 & GirlScript Summer of Code
-
-<a href="https://cloud.layer5.io/user/f5c2e881-ace9-4d0e-afe9-d3c70b10199f?tab=badges&badge=first-design" alt="First Design">
-  <img width="110px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Layer5 First Design" />
-</a>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="65px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="65px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="65px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="65px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="65px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="65px" />
-
-### Hacktoberfest & Holopin Board
-
-[![Holopin badges](https://holopin.me/darshan3690)](https://holopin.io/@darshan3690)
-
-</div>
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics & Engineering Velocity
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darshan3690&theme=tokyonight" alt="Contribution Graph" width="100%">
+<img src="https://skillicons.dev/icons?i=typescript,python,go,nextjs,react,nodejs,docker,postgres,mongodb,prisma,firebase,aws,tailwind,git,githubactions,linux,vscode&perline=8" alt="Tech Stack Icons" />
+
+<br/><br/>
+
+| Domain | Stack |
+| :--- | :--- |
+| **🤖 AI & Agents** | `OpenAI` `Claude` `Gemini` `Vapi AI` `AssemblyAI` `n8n Workflows` `FalkorDB GraphRAG` `Cognee` |
+| **💻 Full-Stack & Systems**| `Next.js 15` `React` `TypeScript` `Go` `Tailwind CSS` `Node.js` `Express` `Neon DB` |
+| **⚙️ DevOps & Tooling** | `VibeCI Guardrail` `Docker` `GitHub Actions` `Git` `Vercel` `AWS` |
+| **🧩 Extensions** | `Chrome Extensions Manifest V3` `DOM Scripting` `Chrome Storage API` |
 
 </div>
 
-<details>
-<summary><b>📈 View Detailed GitHub Streak, Activity Graph & LeetCode Heatmap</b></summary>
+---
 
-<br>
+# 📈 GitHub Stats & Activity
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darshan3690&theme=tokyonight" alt="Contribution Details" width="100%">
+
+<br/><br/>
 
 <img alt="GitHub Streak" height="190px" src="https://github-readme-streak-stats-eight.vercel.app/?user=Darshan3690&theme=tokyonight&hide_border=true" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshan3690&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
-
-<br><br>
-
-
-</div>
-
-</details>
-
----
-
-# 🏆 Executive Summary
-
-<div align="center">
-
-| | Key Milestone |
-| :---: | :--- |
-| 🤖 | Architected real-time **Voice AI systems** serving **1,000+ concurrent users** with sub-2s latency |
-| 🏆 | **Top PR Winner ($100 Prize)** — Built a production Confluence → **Cognee AI Memory** DLT connector |
-| 🎖️ | **Back to the Metadata Hackathon 2026** — Merged production K8s & UTF-8 PRs into **OpenMetadata** & **Lingo.dev** |
-| 🔁 | Reviewed, triaged & merged **150+ Pull Requests** as Lead Maintainer of **The Dev Pocket** |
-| 👥 | Mentored **100+ global open-source contributors** across **ECWoC, GSSoC & Hacktoberfest** |
-| 🚀 | Shipped **6+ end-to-end AI products** spanning Voice Agents, Multi-LLM Arenas, and Autonomous Workflows |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshan3690&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -333,20 +246,21 @@ Cross-platform mobile application featuring interactive emission analytics and p
 
 <div align="center">
 
-### 💼 Open to High-Impact Engineering Roles
+### 💼 Open for AI/ML Roles & Forward Deployed Engineering
+**AI Systems** • **Voice AI & Agents** • **Graph RAG** • **Open Source Leadership**
 
-**AI/ML Engineering Internships** • **Forward Deployed Engineer (AI)** • **Full Stack AI Roles** • **AI Startups** • **Open Source Collaborations**
+<br/>
 
-<br>
+<p align="center">
+  <a href="https://linktr.ee/darshan3690"><img src="https://img.shields.io/badge/🌐_Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/darshan-rajput-4b0b23288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:darshan.rajput369@gmail.com"><img src="https://img.shields.io/badge/Email-darshan.rajput369%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-linktree-0e6efd?style=for-the-badge)](https://linktr.ee/darshan3690)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan_Rajput-0e6efd?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshan-rajput-4b0b23288/)
-[![Email](https://img.shields.io/badge/Email-darshan.rajput369%40gmail.com-0e6efd?style=for-the-badge&logo=gmail)](mailto:darshan.rajput369@gmail.com)
+<br/>
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,24,18,11,6&height=120&section=footer" width="100%" />
 
----
-
-<sub>⭐ Built & Maintained by <a href="https://github.com/Darshan3690">Darshan Rajput</a></sub>
+<sub>⚡ Maintained with care by <a href="https://github.com/Darshan3690"><b>Darshan Rajput</b></a></sub>
 
 </div>
