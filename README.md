@@ -36,7 +36,7 @@ const darshan = {
     "Autonomous Workflow Automation (n8n / Tool Calling)"
   ],
 
-  maintaining: "The Dev Pocket — 100+ contributors, 150+ PRs reviewed",
+  maintaining: "The Dev Pocket — 100+ contributors, 200+ PRs reviewed",
 
   stack: [
     "Next.js", "TypeScript", "Python",
@@ -60,25 +60,7 @@ const darshan = {
 
 ---
 
-# 🧠 AI Engineering & System Architecture
 
-> Moving beyond simple prompt wrappers—designing low-latency, fault-tolerant AI systems that integrate cleanly with production data and enterprise workflows.
-
-```mermaid
-flowchart LR
-    A[🎙️ Voice / Text Input] -->|WebSockets / Vapi| B(⚡ Real-Time STT & Intent Router)
-    B -->|Multi-LLM Orchestration| C{🧠 AI Agent Core}
-    C <-->|DLT / Vector & Graph Memory| D[(📚 Cognee / NeonDB)]
-    C -->|Deterministic Tool Calling| E[⚙️ n8n / Calendar / APIs]
-    C -->|Streaming TTS| F[🔊 Sub-2s Voice Response]
-```
-
-| AI Engineering Pillar | Production Implementation & Focus |
-| :--- | :--- |
-| **🎙️ Real-Time Voice AI** | End-to-end conversational pipelines using **Vapi AI**, **AssemblyAI**, and streaming LLMs with **sub-2-second response latency** and automated turn-taking. |
-| **🧬 AI Memory & RAG Pipelines** | Incremental data ingestion using **DLT (Data Load Tool)**, semantic chunking, forget-on-delete synchronization, and knowledge-graph memory (**Cognee**). |
-| **🔀 Multi-LLM Orchestration** | Unified interfaces comparing **OpenAI, Anthropic Claude, and Google Gemini** side-by-side with structured **CRISPE** prompt engineering. |
-| **⚡ Agentic Workflows** | Autonomous classification, intent extraction, and multi-step tool execution via **n8n**, **OpenAI Function Calling**, and webhook pipelines. |
 
 ---
 
@@ -323,9 +305,6 @@ Cross-platform mobile application featuring interactive emission analytics and p
 
 <br><br>
 
-<a href="https://leetcode.com/Doremon3690/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/Doremon3690?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="600"/>
-</a>
 
 </div>
 
